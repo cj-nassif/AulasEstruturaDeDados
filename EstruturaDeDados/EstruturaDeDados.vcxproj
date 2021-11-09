@@ -144,6 +144,7 @@
     <ClCompile Include="InsertSort.cpp" />
     <ClCompile Include="Listas.cpp" />
     <ClCompile Include="ListasParte2.cpp" />
+    <ClCompile Include="Pilha.cpp" />
     <ClCompile Include="SelectionSort.cpp" />
     <ClCompile Include="Struct.cpp" />
   </ItemGroup>
