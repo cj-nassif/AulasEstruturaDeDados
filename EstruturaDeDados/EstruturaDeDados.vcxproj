@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="Aula2Funcoes.cpp" />
     <ClCompile Include="BubbleSort.cpp" />
+    <ClCompile Include="Calculadora.cpp" />
     <ClCompile Include="InsertSort.cpp" />
     <ClCompile Include="Listas.cpp" />
     <ClCompile Include="ListasParte2.cpp" />
