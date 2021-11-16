@@ -143,11 +143,13 @@
     <ClCompile Include="BubbleSort.cpp" />
     <ClCompile Include="Calculadora.cpp" />
     <ClCompile Include="FilaCircular.cpp" />
+    <ClCompile Include="FilaDinamica.cpp" />
     <ClCompile Include="InsertSort.cpp" />
     <ClCompile Include="FilaAula7.cpp" />
     <ClCompile Include="Lista encadeada.cpp" />
     <ClCompile Include="Listas.cpp" />
     <ClCompile Include="ListasParte2.cpp" />
+    <ClCompile Include="Pilha Encadeada.cpp" />
     <ClCompile Include="Pilha.cpp" />
     <ClCompile Include="SelectionSort.cpp" />
     <ClCompile Include="Struct.cpp" />
