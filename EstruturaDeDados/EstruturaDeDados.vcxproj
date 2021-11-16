@@ -145,6 +145,7 @@
     <ClCompile Include="FilaCircular.cpp" />
     <ClCompile Include="InsertSort.cpp" />
     <ClCompile Include="FilaAula7.cpp" />
+    <ClCompile Include="Lista encadeada.cpp" />
     <ClCompile Include="Listas.cpp" />
     <ClCompile Include="ListasParte2.cpp" />
     <ClCompile Include="Pilha.cpp" />
